@@ -70,7 +70,7 @@ html, body {
 }
 
 #photo {
-	size: 50%;
+	width: 50%;
 	margin-bottom: 16px;
 	border: 3px dashed red;
 	text-align: center;
@@ -89,6 +89,7 @@ html, body {
 
    
 #logo {
+	width: 1%;
     margin-bottom: 16px;
 	border: 3px dashed red;
 	text-align: center;
